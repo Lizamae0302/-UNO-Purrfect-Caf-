@@ -79,7 +79,7 @@ require_once('partials/_head.php');
                     <th>Name</th>
                     <th>Qty</th>
                     <th>Price</th>
-                    <th>Total</th>
+                    <th>Sub Total</th>
                     <th>Action</th>
                   </tr>
                 </thead>
